@@ -18,6 +18,8 @@
       },
       "mapping":
         {
+          "key": "",
+          "value" : 1,
           "response": 1,
           "outcomes": {
             "score": 1
