@@ -1,0 +1,137 @@
+{
+  "copyright": "NIT123",
+  "code": "2c420fff-8f48-4024-944a-ae7c98c8607b",
+  "subject": [
+    "Geography"
+  ],
+  "channel": "01309282781705830427",
+  "responseDeclaration": {
+    "response1": {
+      "maxScore": 1,
+      "cardinality": "single",
+      "type": "integer",
+      "correctResponse": {
+        "value": "1",
+        "outcomes": {
+          "SCORE": 1
+        }
+      },
+      "mapping":
+        {
+          "response": 1,
+          "outcomes": {
+            "score": 1
+          }
+        }
+
+    }
+  },
+  "language": [
+    "English"
+  ],
+  "medium": [
+    "English"
+  ],
+  "mimeType": "application/vnd.sunbird.question",
+  "media": [],
+  "body": "<div class='question-body' tabindex='-1'><div class='mcq-title' tabindex='0'><p>Which country is the largest producer of pulses in the world?</p></div><div data-choice-interaction='response1' class='mcq-vertical'></div></div>",
+  "editorState": {
+    "options": [
+      {
+        "answer": false,
+        "value": {
+          "body": "<p>Brazil</p>",
+          "value": 0
+        }
+      },
+      {
+        "answer": true,
+        "value": {
+          "body": "<p><span style=\"background-color:#ffffff;color:#202124;\">India</span></p>",
+          "value": 1
+        }
+      },
+      {
+        "answer": false,
+        "value": {
+          "body": "<p>Sri Lanka</p>",
+          "value": 2
+        }
+      },
+      {
+        "answer": false,
+        "value": {
+          "body": "<p>China</p>",
+          "value": 3
+        }
+      }
+    ],
+    "question": "<p>Which country is the largest producer of pulses in the world?</p>"
+  },
+  "templateId": "mcq-vertical",
+  "createdOn": "2023-03-20T10:26:37.826+0000",
+  "objectType": "Question",
+  "interactions": {
+    "response1": {
+      "type": "choice",
+      "options": [
+        {
+          "label": "<p>Brazil</p>",
+          "value": 0
+        },
+        {
+          "label": "<p><span style=\"background-color:#ffffff;color:#202124;\">India</span></p>",
+          "value": 1
+        },
+        {
+          "label": "<p>Sri Lanka</p>",
+          "value": 2
+        },
+        {
+          "label": "<p>China</p>",
+          "value": 3
+        }
+      ]
+    },
+    "validation": {
+      "required": "Yes"
+    }
+  },
+  "gradeLevel": [
+    "Class 4"
+  ],
+  "primaryCategory": "Multiple Choice Question",
+  "contentDisposition": "inline",
+  "lastUpdatedOn": "2023-03-20T10:26:37.849+0000",
+  "contentEncoding": "gzip",
+  "showSolutions": "No",
+  "allowAnonymousAccess": "Yes",
+  "identifier": "do_2137568911181905921890",
+  "lastStatusChangedOn": "2023-03-20T10:26:37.826+0000",
+  "audience": [
+    "Student"
+  ],
+  "visibility": "Parent",
+  "showTimer": "No",
+  "author": "Creator1",
+  "solutions": [],
+  "qType": "MCQ",
+  "maxScore": 1,
+  "languageCode": [
+    "en"
+  ],
+  "bloomsLevel": "apply",
+  "version": 1,
+  "versionKey": "1679307997849",
+  "showFeedback": "No",
+  "license": "CC BY 4.0",
+  "interactionTypes": [
+    "choice"
+  ],
+  "framework": "inquiry_k-12",
+  "createdBy": "5a587cc1-e018-4859-a0a8-e842650b9d64",
+  "compatibilityLevel": 4,
+  "name": "MCQ without Solution",
+  "board": "CBSE",
+  "status": "Draft"
+}
